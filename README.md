@@ -65,7 +65,7 @@ function indexOfIgnoreCase(v1, v2){
 1. [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 2. [Concatenating strings](https://attacomsian.com/blog/javascript-string-concat)
 3. [String length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
-3.1 [String length](https://www.w3schools.com/jsref/jsref_length_string.asp)
+3.1. [String length](https://www.w3schools.com/jsref/jsref_length_string.asp)
 4. [String: .toUpperCase](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
 5. [String: .toLowerCase](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
 6. [String: .charAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt)
